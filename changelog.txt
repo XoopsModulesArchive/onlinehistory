@@ -1,0 +1,11 @@
+Version 1.2
+-----------
+#ADD: Anzeige Username/Name wählbar
+#ADD: Suchmaschinen werden im Block angezeigt (ausgewählte)
+#ADD. Anzeige von Suchmaschinen ja/nein einstellbar
+#ADD: preloads for logout
+#ADD: max. Useranzahl die gleichzeitig online
+#ADD: template für 'Wer ist Online' - Block
+#FIX: es wurde immer 1 Suma angezeigt
+#FIX: Datenbankabfragen reduziert
+#FIX: Link zum Userprofil angelegt
